@@ -1,4 +1,5 @@
 # karan.kumar
 this is my first repository
 <br>
-author - karan kumar
+author - karan choudhary
+
